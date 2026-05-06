@@ -10,7 +10,7 @@ import {
   Testimonials,
 } from "@/components";
 
-export default function Home() {
+export default function Page() {
   return (
     <main className="page">
       <Header />
