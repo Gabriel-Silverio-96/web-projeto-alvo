@@ -186,7 +186,6 @@
   font-size: clamp(48px, 6vw, 92px);
   font-weight: 700;
   line-height: 0.98;
-  letter-spacing: -0.05em;
 }
 
 .hero-title span {
@@ -234,7 +233,7 @@
   font-size: 16px;
   font-weight: 700;
   line-height: 1;
-  letter-spacing: 0.12em;
+
   text-transform: uppercase;
 }
 
@@ -244,7 +243,6 @@
   font-size: clamp(42px, 5vw, 68px);
   font-weight: 700;
   line-height: 1.03;
-  letter-spacing: -0.045em;
 }
 
 .section-title-center {
@@ -586,7 +584,6 @@
   font-size: clamp(42px, 5vw, 68px);
   font-weight: 700;
   line-height: 1.05;
-  letter-spacing: -0.045em;
 }
 
 .cta-main-text {
